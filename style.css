@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 80%;
+    margin: auto;
+    background: white;
+    padding: 30px;
+    margin-top: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px gray;
+}
+h1 {
+    color: #333;
+    text-align: center;
+}
+h2 {
+    color: #444;
+}
+h3 {
+    color: #555;
+}
+p {
+    font-size: 18px;
+}
+ul {
+    font-size: 18px;
+}
+.status {
+    color: green;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
